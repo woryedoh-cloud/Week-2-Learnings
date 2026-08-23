@@ -2,7 +2,7 @@
 # My week 2 experience at Luxdev HQ as a Data Science Student
 
 
-## Weekly Learning Reflection: Git, GitHub and Emerging Technical Skills
+## Weekly Learning Reflection
 
 This week, I made significant progress in building my first GitHub project and developing a more practical understanding of Git, version control and command-line workflows. I learned several new processes, including creating and organising directories and folders, navigating project structures through Git Bash and using nano to create and edit files directly from the command line instead of relying on echo. I also practised staging changes, committing updates and pushing my project from Git Bash to GitHub.
 
